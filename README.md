@@ -1,12 +1,12 @@
-The Chronos Conspiracy - Puzzle Solver
+# The Chronos Conspiracy - Puzzle Solver
 
 A simple brute-force script to solve the "Enter the KEY" puzzle from the 'Brain Matters' UMANG event. This repository contains both the logical solution to the riddle and an automated script to find the correct key.
 
-The Puzzle 🧩
+## The Puzzle 🧩
 
 Participants are presented with a riddle on a JotForm page. The answer is a three-digit numerical key required to proceed to the next stage of the "The Chronos Conspiracy" challenge.
 
-The Riddle
+### The Riddle
 
     By counting the eras your knowledge must bridge,
     From great Renaissance heights to the lab on the ridge.
@@ -21,11 +21,11 @@ Manual Solution
 
     I appreciate that you can atleast justify the answer that you get.
 
-The Automated Solver 🤖
+## The Automated Solver 🤖
 
 For a more technical approach, this JavaScript code can be run directly in your browser's console to automatically find the key. It iterates through all numbers from 100 to 999, enters them into the form, and checks for the UI change that reveals the "Next" button, indicating the correct key has been found.
 
-How to Use
+### How to Use
 
     Navigate to the JotForm page where the riddle is displayed.
 
