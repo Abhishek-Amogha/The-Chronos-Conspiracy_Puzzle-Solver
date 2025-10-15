@@ -27,10 +27,10 @@ For a more technical approach, this JavaScript code can be run directly in your 
 
 ### How to Use
 
-    Navigate to the JotForm page where the riddle is displayed.
+1. Navigate to the JotForm page where the riddle is displayed.
 
-    Open your browser's Developer Console (usually by pressing F12 or Ctrl+Shift+I / Cmd+Option+I).
+2. Open your browser's Developer Console (usually by pressing F12 or Ctrl+Shift+I / Cmd+Option+I).
 
-    Copy the code below and paste it into the console.
+3. Copy the code below and paste it into the console.
 
-    Press Enter or Press Run. The script will run and output the correct key once it's found.
+4. Press Enter or Press Run. The script will run and output the correct key once it's found.
